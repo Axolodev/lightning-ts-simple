@@ -1,0 +1,7 @@
+{
+  "name": "lng-ts",
+  "description": "lng-ts",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.0.1"
+  }
+}
